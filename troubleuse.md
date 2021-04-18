@@ -6,6 +6,6 @@
 
 
 #### 部署失败: task run failed, exit status 255
-原因：部署服务在远程服务器没有[免登陆权限](/docs/#/server?id=秘钥配置)
+原因：部署服务在远程服务器没有[免登陆权限](server.md?id=秘钥配置) 
 
 [filename](include/footer.md ':include')
