@@ -10,12 +10,18 @@ $ ./zoom -c [path/zoom.ini]
 
 ## zoom
 
+#### app_name
+
+- Type: `string`
+- Default: `Zoom-CI`
+
+应用名称, 显示在访问页面标题。
 #### app_host
 
 - Type: `string`
 - Default: `http://localhost:7002`
 
-项目访问域名, 结尾不要加 `/`，主要是在邮件中使用。
+应用访问域名, 结尾不要加 `/`，主要是在邮件中使用。
 
 #### local_space
 
