@@ -45,11 +45,6 @@ Start Running...
 打开浏览器，访问 `http://localhost:7002` (出现下图界面)，配置数据库，安装完成。
 <img class="app-img-eg" src="assets/img/zoom-install.png" />
 
-初始账号：
-```
-用户名: admin
-密码: 123456
-```
 **!!!登录后尽快修改默认密码**
 
 [filename](include/footer.md ':include')
