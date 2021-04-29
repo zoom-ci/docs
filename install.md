@@ -73,7 +73,7 @@ Start Running...
 ```
 
 ### 2、打开浏览器，访问 `http://localhost:7002` (出现下图界面)，配置数据库及管理员信息，安装完成。
-<img class="app-img-eg" height="400" src="assets/img/zoom-install.png" />
 
+![](assets/img/zoom-install.png ':size=400')
 
 [filename](include/footer.md ':include')

@@ -8,15 +8,14 @@
 
 按实际情况输入集群名称，如图：
 
-<img src="assets/img/zoom-server-group-add.png" class="app-img-eg" />
-
+![](assets/img/zoom-server-group-add.png ':size=400')
 ## 添加服务器
 
 在新建的集群中添加服务器信息，步骤如下：
 
     服务器 -> 服务器管理 -> 新增服务器
 
-<img src="assets/img/zoom-server-add.png" class="app-img-eg" />
+![](assets/img/zoom-server-add.png ':size=400')
 
 ## 秘钥配置
 
