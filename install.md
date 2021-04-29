@@ -1,6 +1,4 @@
-# 安装
-
-安装 Zoom 非常简单，若您在安装过程中遇到问题或无法找到解决方式，请[提交Issue](https://github.com/zoom-ci/zoom-ci/issues)，我们会尽力解决您的问题。
+> 安装 Zoom 非常简单，若您在安装过程中遇到问题或无法找到解决方式，请[提交Issue](https://github.com/zoom-ci/zoom-ci/issues)，我们会尽力解决您的问题。
 
 ## 环境需求
 
@@ -16,7 +14,7 @@ MySQL 5.6+
 
 升级操作系统Git到最新版本。
 
-## 安装
+## 安装/升级
 
 ### 1、下载[最新版本release包](https://github.com/zoom-ci/zoom-ci/releases),并将其拷贝到任意目录（比如：~/zoom_workspace）;
 
@@ -69,7 +67,7 @@ Start Running...
 ```
 
 ### 2、打开浏览器，访问 `http://localhost:7002` (出现下图界面)，配置数据库及管理员信息，安装完成。
-<img class="app-img-eg" src="assets/img/zoom-install.png" />
+<img class="app-img-eg" height="400" src="assets/img/zoom-install.png" />
 
 
 [filename](include/footer.md ':include')
